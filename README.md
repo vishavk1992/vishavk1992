@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishavk1992&show_icons=true&locale=en&layout=compact" alt="vishavk1992" /></p>
 
-<h1>MY Projects on Netlify </h1>
+<h1 align="center" background-color="pink">MY Projects on Netlify </h1>
 <h3> shopping website </h3>
  https://shopping-women-men.netlify.app/
 
