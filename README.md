@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishavdeep Kaur</h1>
 <h3 align="center">A passionate React developer and Node Js developer (MERN Stack)</h3>
 
-- 🔭 I’m currently working on **node js project**
+- 🔭 I’m currently working on **MERN stack project**
 
 - 🌱 I’m currently learning **node js**
 
