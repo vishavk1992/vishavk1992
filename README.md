@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **MERN STACK PROJECT**
 
