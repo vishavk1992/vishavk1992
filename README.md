@@ -1,5 +1,6 @@
-<div style="background-color:pink;">
 ![Visitor Count](https://github-readme-stats.vercel.app/api/visitor-count?username=vishavk1992&color=blue)
+<div style="background-color:pink;">
+
 
 <h1 align="center">Hi 👋, I'm Vishavdeep Kaur</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
