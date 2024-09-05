@@ -1,4 +1,6 @@
-![Visitor Count](https://github-readme-stats.vercel.app/api/visitor-count?username=vishavk1992&color=blue)
+![Visitor Count](https://img.shields.io/badge/visitor%20count-1234-blue?logo=github&logoColor=white)
+
+
 <div style="background-color:pink;">
 
 
