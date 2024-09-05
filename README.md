@@ -1,4 +1,4 @@
-![Visitor Count](https://img.shields.io/badge/visitor%20count-1234-blue?logo=github&logoColor=white)
+![Visitor Count](https://profile-counter.glitch.me/vishavk1992/count.svg)
 
 
 <div style="background-color:pink;">
