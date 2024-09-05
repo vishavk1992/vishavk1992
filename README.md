@@ -1,12 +1,11 @@
 <div style="background-color:pink;">
 <h1 align="center">Hi 👋, I'm Vishavdeep Kaur</h1>
-<h3 align="center">A passionate React developer and Node Js developer (MERN Stack)</h3>
+<h3 align="center">A passionate Full Stack Developer </h3>
 
 - 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **Next js**
-
-- 👯 I’m looking to collaborate on **MERN STACK PROJECT**
+-  ✨ Hobbies: Design, Travel, Cook
+- ✨ Competencies: JavaScript, React, Node.js, Express.js HTML, CSS, TypeScript, Bootstrap, jQuery, MongoDB, Tailwind, LINUX, SQL
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishavk1992?tab=repositories](https://github.com/vishavk1992?tab=repositories)
 
@@ -15,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishavdeep-kaur-b31bb32bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishavdeep-kaur-b31bb32bb/" height="30" width="40" /></a>
+ https://www.linkedin.com/in/vishavdeep-kaur-b31bb32bb/
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
