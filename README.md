@@ -4,7 +4,7 @@
 <div style="background-color:pink;">
 
 
-<h1 align="center">Hi 👋, I'm Vishavdeep Kaur</h1>
+<h1 align="center">Hi 👋, I'm Vishavdeep Kaur </h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
 - 🔭 I’m currently working on **MERN stack project**
