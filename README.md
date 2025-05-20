@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **MERN stack project**
 
 -  ✨ Hobbies: Design, Travel, Cook
-- ✨ Competencies: JavaScript, React, Node.js, Express.js HTML, CSS, TypeScript, Bootstrap, jQuery, MongoDB, Tailwind, LINUX, SQL
+- ✨ Competencies: JavaScript, React, Node.js, Express.js HTML, CSS, CSS3, TypeScript, Bootstrap, jQuery, MongoDB, Tailwind, LINUX, SQL
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishavk1992?tab=repositories](https://github.com/vishavk1992?tab=repositories)
 
